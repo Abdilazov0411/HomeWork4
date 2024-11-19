@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Homework4" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Homework4" parent="Base.Theme.Homework4" />
+</resources>
